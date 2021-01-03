@@ -1,5 +1,5 @@
 import pytest
-from day18p1 import Operation
+from part1 import Operation
 
 def test_without_parentheses():
     solver = Operation()
